@@ -2,6 +2,10 @@
 
 This project focuses on implementing a Generative Adversarial Neural Network (GAN) for deep learning applications, specifically for analyzing various images and objects to generate new images or objects. The project is based on TensorFlow and TensorFlow Datasets, using a fashion MNIST dataset for training.
 
+![image](https://github.com/user-attachments/assets/091df104-92be-4db0-8666-567eec4cc102)
+
+![image](https://github.com/user-attachments/assets/4a4f1e1f-2c6b-42c6-b3dc-21021cbba510)
+
 ## Overview
 
 The project consists of the following components:
