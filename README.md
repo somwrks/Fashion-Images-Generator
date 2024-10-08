@@ -1,4 +1,4 @@
-# GANN (Generative Adversarial Neural Network)
+# Fashion Images Generator (Generative Adversarial Neural Network)
 
 This project focuses on implementing a Generative Adversarial Neural Network (GAN) for deep learning applications, specifically for analyzing various images and objects to generate new images or objects. The project is based on TensorFlow and TensorFlow Datasets, using a fashion MNIST dataset for training.
 
